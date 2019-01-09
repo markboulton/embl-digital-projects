@@ -5,6 +5,8 @@
 
 ### Summary
 
+EMBL's Design Team are working on the EMBL Corporate Design to cover logo use, print, etc. We call its web interpretation the [Digital Design Language](digital-design-language.md). 
+
 ### Prototypes
 
 ### See also
