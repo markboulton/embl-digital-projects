@@ -1,7 +1,7 @@
 # EMBL etc
 
 - Project status: Not started
-- Dependencies: 
+- Dependencies: [Corporate Design](corporate-design.md)
 
 ### Summary
 
