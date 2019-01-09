@@ -5,7 +5,7 @@
 
 ### Summary
 
-The digital team's interpretation of EMBL's Corporate Design, adapted for web, and implemented through the Visual Framework.
+The digital team's interpretation of EMBL's [Corporate Design](corporate-design.md), adapted for web, and implemented through the Visual Framework.
 
 ### Prototypes
 
