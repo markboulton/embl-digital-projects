@@ -9,7 +9,7 @@ A list of terms that describe the content across [embl.org](embl-org.md). This w
 
 ### Prototypes
 
-- Drupal site [EMBL taxonomies](http://dev-embl-taxonomies.pantheonsite.io/) (Alpha)
+- Drupal site: [EMBL taxonomies](http://dev-embl-taxonomies.pantheonsite.io/) (Alpha)
 
 
 ### See also
