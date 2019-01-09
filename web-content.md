@@ -1,8 +1,9 @@
 # Web content
 
+- Project status: 
+- Dependencies: 
+
 ### Summary
 
-- Dependencies: 
-- Status: 
 
 ### Prototypes
