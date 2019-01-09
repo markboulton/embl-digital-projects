@@ -1,7 +1,7 @@
 # Content Hub
 
-- Dependencies: EBI web infrastructure, Drupal 8
 - Project status: Beta
+- Dependencies: EBI web infrastructure, Drupal 8
 
 ### Summary
 
