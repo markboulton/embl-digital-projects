@@ -8,3 +8,5 @@
 A stylistic redesign for *EMBLetc* on the web. 
 
 ### Prototypes
+
+Current site: [*EMBLetc*](http://news.embl.de)
