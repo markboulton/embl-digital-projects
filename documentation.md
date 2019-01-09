@@ -5,7 +5,7 @@
 
 ### Summary
 
-Enough written documentation for others to understand how to use the tools the digital team is creating and working with.
+Enough written documentation for others to understand how to use the tools the digital team is creating and working with. Need this to be centralised and cleary navigable.
 
 ### Examples
 
