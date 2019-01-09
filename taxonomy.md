@@ -7,7 +7,7 @@
 
 A list of terms that describe the content across [embl.org](embl-org.md). This will be an inter-related system of taxonomies for aggregation and syndication of content. 
 
-Terms were sourced from a content audit of the top 1000 links on [embl.de](http://www.embl.de), as well as terms list from [*EMBLetc*](http://www.news.embl.de). 
+Terms were sourced from a content audit of the top 1000 links on [embl.de](http://www.embl.de), as well as terms list from [*EMBLetc*](http://news.embl.de). 
 
 ### Prototypes
 
