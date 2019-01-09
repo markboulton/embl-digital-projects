@@ -2,10 +2,11 @@
 
 Currently a media repository for the EMBL communciation team, with a focus on high-quality images. 
 
-Collections of images to be shared with journalists through the press office. Main users are the Design and Digital teams within the EMBL Communications group. 
+Main users are the Design and Digital teams within the EMBL Communications group. Spilios has led workshops to include EMBL's Photolab. 
 
+Collections of images to be shared with journalists through the press office - need to integrate with latest press office landing page. 
 
-- Dependencies
+- Dependencies: Press office landing page
 - Project status: Live
 
 ### Guidelines for uploading images
