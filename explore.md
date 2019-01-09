@@ -1,6 +1,6 @@
 # Explore
 
-- Project status: On hold
+- Project status: In progress 
 - Dependencies: [embl.org](embl-org.md), [EDR](EDR.md)
 
 ### Summary
