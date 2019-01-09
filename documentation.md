@@ -1,6 +1,6 @@
 # Documentation
 
-- Status: Not started
+- Project status: Not started
 - Dependencies: Various (systems need to be built and working at least in Alpha before we can write meaningful documentation)
 
 ### Summary
