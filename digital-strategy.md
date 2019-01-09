@@ -7,6 +7,10 @@ An over-arching strategy for the work of the digital team at EMBL.
 
 ### Summary
 
+*Raise EMBL's profile* through embl.org and media engagement; 
+*Build cohesion* through branding, intranet and design systems; and 
+*Enable engagement* by empowering teams to publish their own content with templates, tools, systems and processes. 
+
 
 ### Live document
 
