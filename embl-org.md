@@ -1,7 +1,7 @@
 # EMBL.org
 
 - Project status: In progress
-- Dependencies: 
+- Dependencies: (/edr.md)
 
 ### Summary
 
