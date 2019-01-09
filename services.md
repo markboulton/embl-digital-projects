@@ -8,3 +8,9 @@ A scalable, digital list linking to the hundreds of services that EMBL offers. I
 - Status: Not started
 
 ### Prototypes
+
+### See also
+
+EBI list of services https://www.ebi.ac.uk/services
+
+
