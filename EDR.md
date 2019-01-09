@@ -1,4 +1,4 @@
-# Enterprise Data Repository
+# Enterprise Data Repository (EDR)
 
 - Project status: Not started
 - Dependencies: Heidelberg IT projects
