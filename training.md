@@ -7,7 +7,6 @@
 A series of talks and workshops to explain the embl.org project and the work of the digital team.
 
 ### Prototypes
-- Confluence
-- Wiki?
 
-###
+
+### See also
