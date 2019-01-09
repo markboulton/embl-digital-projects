@@ -4,7 +4,7 @@ A scalable, digital list linking to the hundreds of services that EMBL offers. I
 
 ### Summary
 
-- Dependencies: Compile a full list of all services across EMBL sites
+- Dependencies: Need a full list of all services across EMBL sites
 - Status: Not started
 
 ### Prototypes
