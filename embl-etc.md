@@ -1,6 +1,6 @@
 # EMBL etc
 
-- Project status: 
+- Project status: Not started
 - Dependencies: 
 
 ### Summary
