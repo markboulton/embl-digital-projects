@@ -1,11 +1,12 @@
 # Digital strategy
 
-An over-arching strategy for the work of the digital team at EMBL. 
-
+- Project status: Live
 - Dependencies: Sign-off from governance
-- Status: Live
 
 ### Summary
+
+An over-arching strategy for the work of the digital team at EMBL. 
+
 
 *Raise EMBL's profile* through embl.org and media engagement; 
 *Build cohesion* through branding, intranet and design systems; and 
