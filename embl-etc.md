@@ -1,8 +1,10 @@
 # EMBL etc
 
+- Project status: 
+- Dependencies: 
+
 ### Summary
 
-- Dependencies: 
-- Status: 
+A stylistic redesign for *EMBLetc* on the web. 
 
 ### Prototypes
