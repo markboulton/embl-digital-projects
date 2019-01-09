@@ -1,3 +1,8 @@
+# Bynder
+
+- Project status: Live
+- Dependencies: Media guidelines
+
 ### Summary
 
 A media repository for the EMBL Communciations team, with a focus on high-quality images. Metadata and captions added to images, which can be shared as collections. 
