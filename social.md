@@ -16,5 +16,7 @@ Enabling engagement, building cohesion, and raising EMBL's profile through a ser
 ### Social media accounts
 
 [Facebook](https://www.facebook.com/embl.org/)
+
 [Twitter](https://twitter.com/embl?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
 [Instagram](https://www.instagram.com/embl_org/?hl=en)
