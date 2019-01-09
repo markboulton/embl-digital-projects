@@ -1,6 +1,6 @@
 ### Summary
 
-A media repository for the EMBL Communciations team, with a focus on high-quality images. 
+A media repository for the EMBL Communciations team, with a focus on high-quality images. Metadata and captions added to images, which can be shared as collections. 
 
 Main users are the Design and Digital teams within the EMBL Communications group. Spilios has led workshops to include EMBL's Photolab. 
 
