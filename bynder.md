@@ -2,9 +2,7 @@
 
 Currently a media repository for the EMBL communciation team, with a focus on high-quality images. 
 
-Collections of images to be shared with journalists through the press office. 
-
-Main users are the Design and Digital teams within the EMBL Communications group. 
+Collections of images to be shared with journalists through the press office. Main users are the Design and Digital teams within the EMBL Communications group. 
 
 
 - Dependencies
